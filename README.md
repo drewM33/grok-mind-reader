@@ -34,9 +34,6 @@ python grok_mind_cyber_matrix.py
 - **API**: xAI Grok API (grok-2 model)
 - **Real-time**: WebSocket bidirectional communication
 
-## 🎬 Demo
-[Live Demo](your-ngrok-url) | [Video Demo](your-video-url)
-
 ![Matrix Interface Screenshot](screenshot.png)
 
 ## 🚀 Built for xAI Hackathon
