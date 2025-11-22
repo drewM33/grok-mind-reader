@@ -1,4 +1,4 @@
-# GROK PSY OP :: Matrix Neural Interface 🧠⚡
+# GROK PSY OP :: Matrix Neural Interface 
 **Real-time Matrix-themed visualization for xAI Grok interactions**
 
 Live neural interface that visualizes Grok's responses with cyberpunk aesthetics and real-time brainwave activity.
@@ -13,13 +13,13 @@ python grok_mind_cyber_matrix.py
 # Open browser to http://localhost:8080
 ```
 
-## 🎯 What It Does
-- 🧠 **Real-time Brainwave Visualization**: Neural activity that reacts to token usage
-- 💚 **Matrix Digital Rain**: Animated background with Japanese characters
-- 📊 **Live Token Tracking**: Real-time prompt/output/cache metrics
-- 🔌 **WebSocket Updates**: Instant UI updates without refresh
-- ⚡ **Grok API Integration**: Direct connection to xAI's grok-2 model
-- 🎨 **Cyberpunk Aesthetics**: Glitch effects, neon colors, flickering status
+## What It Does
+- **Real-time Brainwave Visualization**: Neural activity that reacts to token usage
+- **Matrix Digital Rain**: Animated background with Japanese characters
+- **Live Token Tracking**: Real-time prompt/output/cache metrics
+- **WebSocket Updates**: Instant UI updates without refresh
+- **Grok API Integration**: Direct connection to xAI's grok-2 model
+- **Cyberpunk Aesthetics**: Glitch effects, neon colors, flickering status
 
 ## 🖥️ Features
 - **Neural Activity Monitor**: Visual brainwave that spikes from green to pink during API calls
