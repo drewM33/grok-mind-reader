@@ -1,0 +1,5 @@
+# Grok Mind Reader - xAI Version Dependencies
+# Install with: pip install -r requirements_xai.txt
+
+xai-sdk>=1.4.0
+rich>=13.0.0
