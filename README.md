@@ -34,11 +34,6 @@ python grok_mind_cyber_matrix.py
 - **API**: xAI Grok API (grok-2 model)
 - **Real-time**: WebSocket bidirectional communication
 
-![Matrix Interface Screenshot](screenshot.png)
-
-## 🚀 Built for xAI Hackathon
-**November 22, 2024** - Demonstrating creative visualization of AI interactions
-
 ## 📚 Project Structure
 ```
 grok-psy-op/
@@ -54,5 +49,3 @@ While xAI's API is powerful, visualizing AI interactions helps users understand:
 - Token usage and efficiency
 - The "thinking" process through visual metaphors
 - Making AI interactions more engaging and accessible
-
-**The Matrix aesthetic represents the bridge between human and AI consciousness.**
